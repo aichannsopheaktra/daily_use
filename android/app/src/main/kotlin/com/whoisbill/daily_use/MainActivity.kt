@@ -1,4 +1,4 @@
-package com.example.daily_use
+package com.whoisbill.daily_use
 
 import io.flutter.embedding.android.FlutterActivity
 
